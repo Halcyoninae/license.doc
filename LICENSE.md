@@ -44,7 +44,7 @@ In no way shall any derivations of this software be sub-licensed in any way exce
 
 In no event shall the authors or copyright holders be liable for any claim, damage, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
-You accept that the software bundled may include but is not limited the to:
+You accept that the software bundled may include but is not limited to:
 
 
 
@@ -60,7 +60,7 @@ Trademarking of trade names, service marks, trademarks, and/or product names of 
 
 Plugin integration with the root software can be alienated from this license. However, if the desired plugin requires in any form THIS software to be bundled with it or requires it before the bundled software links/loads it, this license must be applied.
 
-By creating a plugin, you expect that no matter your purpose, your software is NOT TRUSTED. By creating potentially adverse/malicious plugins & software to be loaded by the bundled software, you are being exposed to potential damages that must be dealt with out of this LICENSE and its stated copyright holders & authors.
+By creating a plugin, you accept that no matter its purpose, that software is NOT TRUSTED. By creating potentially adverse/malicious plugins & software to be loaded by the bundled software, you are being exposed to potential damages that must be dealt with out of this LICENSE and its stated copyright holders & authors.
 
 Plug-ins loaded by the program CAN NOT AND MUST NOT modify any resources that violate the authors’ placed licenses or those construing with this license’s license.
 
@@ -68,7 +68,7 @@ Plug-ins loaded by the program CAN NOT AND MUST NOT modify any resources that vi
 
 Direct modification of the source software must retain this license. All source versions must contain a file titled “ATTRIBUTIONS” which provides literal attributions to works. In this file, you may state changes made, previous attributions (fork of a fork), and your own attribution to your modifications. This license file shall serve as a literal marker of attributions made.
 
-By creating and modifying, you also show your compliance to this license and acknowledge the risks, terms & conditions, and your role.
+By creating and modifying, you show your full compliance to this license and acknowledge the risks, terms & conditions, and your role.
 
 In no way shall this ATTRIBUTIONS file be used to restrict access to other contributors, it must only serve as a marker and not construe with the license and its overall accessibility. 
 
